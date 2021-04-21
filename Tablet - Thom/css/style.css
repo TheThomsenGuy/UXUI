@@ -6,6 +6,14 @@ body{
   margin: 0;
 }
 
+h1{
+  font-family: 'Raleway', sans-serif;
+}
+
+h2, p{
+  font-family: 'Montserrat', sans-serif;
+}
+
 /*--------------- Her er Tablet siden--------------------*/
 
 .tablet{
@@ -87,6 +95,7 @@ body{
 
 #button h2{
   padding-left: 0;
+  font-size: 30px;
 }
 
 .venstre{
@@ -110,7 +119,7 @@ body{
 }
 
 .circle p{
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #P_value{
